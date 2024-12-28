@@ -45,7 +45,7 @@ Built with Vue 3 + Vite
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/allpercs.git
+git clone https://github.com/spothound/allpercs.git
 cd allpercs
 ```
 

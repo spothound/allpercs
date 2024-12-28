@@ -81,7 +81,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[MIT](./LICENSE) License © 2024 [Your Name]
+[MIT](./LICENSE) License © 2024 Francisco Navarro
 
 ## Why
 
